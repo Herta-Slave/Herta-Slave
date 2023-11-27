@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Herta-Slave
-- 👀 I’m skilled in Game Development,Web Development and Animation 
-- 🌱 I’m currently learning Ruby and R
+- 👀 I want to learn Game Development,Web Development and Animation for my future career 
+- 🌱 I’m currently learning Python,Ruby and R 
 - 💞️ I love playing video games
 - 📫 How to reach me DM me on Discord Reign#6075
 
